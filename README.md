@@ -1,5 +1,7 @@
 # 植物工厂资源清单
 
+🚧施工中🚧
+
 + [基于多传感器数据融合的植物工厂监控系统设计](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=26&CurRec=1&FileName=1022497513.nh&DbName=CMFDTEMP&DbCode=CMFD)
 + [基于真实情境的小学线上综合性学习模式探索——以“物联网+植物工厂”居家课程开发与实施为例](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=26&CurRec=2&recid=&FileName=JSJU202213005&DbName=CJFDLASN2022&DbCode=CJFD&yx=&pr=CFJD2022;&URLID=)
 + [气雾栽培式家庭植物工厂设计](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=26&CurRec=3&recid=&FileName=GLJH202204007&DbName=CJFDLAST2022&DbCode=CJFD&yx=&pr=&URLID=)
